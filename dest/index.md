@@ -1,120 +1,13 @@
-::: {.outer-wrapper}
-::: {.container}
-::: {#portal-header}
-[![Plone
-site](%E9%81%BA%E4%BC%9D%E7%A0%94%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_files/sc_logo_20180216a.png "Plone site")](https://sc.ddbj.nig.ac.jp/ja "日本語"){#portal-logo}
 
-::: {#portal-searchbox}
-::: {.LSBox}
-サイトを検索
 
-::: {.searchSection}
-現在のセクション内のみ
-:::
-:::
 
-::: {#portal-advanced-search .hiddenStructure}
-[詳細検索](https://sc.ddbj.nig.ac.jp/ja/@@search)
-:::
-:::
-
-::: {#portal-anontools}
-:::
-
--   [日本語](https://sc.ddbj.nig.ac.jp/@@multilingual-selector/4a42055722c4482f8ce59bbbc780adc8/ja?set_language=ja "日本語")
--   [English](https://sc.ddbj.nig.ac.jp/@@multilingual-selector/4a42055722c4482f8ce59bbbc780adc8/en?set_language=en "English")
-:::
-:::
-
-::: {#mainnavigation-wrapper}
-::: {#mainnavigation}
-ナビゲーション
-
-::: {.container}
-::: {.plone-navbar-header}
-[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
-:::
-
-::: {#portal-globalnav-collapse .plone-collapse .plone-navbar-collapse}
--   [[ホーム](https://sc.ddbj.nig.ac.jp/ja)]{#portaltab-index_html}
--   [[システム利用案内](https://sc.ddbj.nig.ac.jp/ja/guide)]{#portaltab-guide}
--   [[各種申請](https://sc.ddbj.nig.ac.jp/ja/application)]{#portaltab-application}
--   [[稼働状況](https://sc.ddbj.nig.ac.jp/ja/operation)]{#portaltab-operation}
--   [[成果報告](https://sc.ddbj.nig.ac.jp/ja/report)]{#portaltab-report}
-:::
-:::
-:::
-:::
-
-::: {#above-content-wrapper}
-::: {#viewlet-above-content .section}
-::: {.container}
-[現在位置:]{#breadcrumbs-you-are-here .hiddenStructure}
-
-1.  [[ホーム](https://sc.ddbj.nig.ac.jp/ja)]{#breadcrumbs-home}
-:::
-:::
-:::
-
-::: {.container}
-::: {.row}
-<div>
-
-</div>
-:::
-
-::: {#main-container .row .row-offcanvas .row-offcanvas-right role="main"}
-::: {.col-xs-6 .col-sm-3 .sidebar-offcanvas}
-::: {#portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4e494753432f6a610a6e657773 .portletWrapper data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4e494753432f6a610a6e657773"}
-::: {.section .portlet .portletNews role="section"}
-ニュース
-
-::: {.section .portletContent}
--   [【事前予告】2020年8月28日(金)11:00～13:00\_Lustre障害対応によるスパコン一般解析区画内の一部領域へのアクセス不可](https://sc.ddbj.nig.ac.jp/ja/operation/maintenance/20200827_info){.tile}
-    2020年08月27日
--   [（終了）【事前予告\_2】2020年7月3日(金)10:30～11:30\_Lustre障害対応によるスパコン一般解析区画内の一部領域へのアクセス不可](https://sc.ddbj.nig.ac.jp/ja/operation/maintenance/20200703_info){.tile}
-    2020年07月02日
--   [【障害報告\_2】2020年7月2日(木)\_スパコン一般解析区画でのqloginおよびqsub不可のお詫び](https://sc.ddbj.nig.ac.jp/ja/operation/maintenance/20200702_info-3){.tile}
-    2020年07月02日
--   [【障害報告】2020年7月2日(木)12:50～14:00\_Lustreファイルシステムの不具合によるスパコン一般解析区画への一時アクセス不可のお詫び](https://sc.ddbj.nig.ac.jp/ja/operation/maintenance/20200702_info-2){.tile}
-    2020年07月02日
--   [（終了）【事前予告】2020年7月2日(木)10:30～11:30\_Lustre障害対応によるスパコン一般解析区画内の一部領域へのアクセス不可](https://sc.ddbj.nig.ac.jp/ja/operation/maintenance/20200702_info){.tile}
-    2020年07月01日
-:::
-:::
-:::
-:::
-
-::: {.col-xs-12 .col-sm-9}
-::: {.row}
-::: {.col-xs-12 .col-sm-12}
-::: {#viewlet-above-content-title}
-[ [遺伝研スーパーコンピュータシステム]{itemprop="name"}
-[]{itemprop="description"}
-[https://sc.ddbj.nig.ac.jp/ja/home]{itemprop="url"}
-[https://sc.ddbj.nig.ac.jp/@\@site-logo/sc\_logo\_20180216a.png]{itemprop="image"}
-]{#social-tags-body style="display: none" itemscope=""
-itemtype="http://schema.org/WebPage"}
-:::
-
-遺伝研スーパーコンピュータシステム {#遺伝研スーパーコンピュータシステム .documentFirstHeading}
-==================================
-
-::: {#viewlet-below-content-title}
-:::
-
-::: {#viewlet-above-content-body .section}
-:::
-
-::: {#content-core .section}
-::: {#parent-fieldname-text}
- 
+# 遺伝研スーパーコンピュータシステム
 
  
 
 国立遺伝学研究所は生命・医学系研究における情報処理のための大規模計算基盤として、大規模クラスタ型計算機・大規模メモリ共有型計算機・大容量高速ディスク装置を備えた最新鋭のスーパーコンピュータシステムサービスを提供しています。
 
-![top\_image2.png](%E9%81%BA%E4%BC%9D%E7%A0%94%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_files/top_image2.png "top_image2.png"){.image-inline} 
+![top\_image2.png](%E9%81%BA%E4%BC%9D%E7%A0%94%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_files/top_image2.png "top_image2.png")
 
  
 
@@ -122,8 +15,7 @@ itemtype="http://schema.org/WebPage"}
 
 ------------------------------------------------------------------------
 
-新着情報 {#新着情報 style="position: relative; padding: 5px 5px 5px 42px; background: #77c3df; color: white; margin-left: -33px; line-height: 1.3; z-index: -1;"}
---------
+## 新着情報
 
 ### Asperaの構成変更について {#asperaの構成変更について style="border-bottom: solid 0.5px #7db4e6; padding: 0.25em 0.5em; border-left: solid 8px #7db4e6;"}
 
@@ -140,37 +32,32 @@ itemtype="http://schema.org/WebPage"}
 
  
 
-### 個人ゲノム解析環境のゲートウェイ構成変更について {#個人ゲノム解析環境のゲートウェイ構成変更について style="border-bottom: solid 0.5px #7db4e6; padding: 0.25em 0.5em; border-left: solid 8px #7db4e6;"}
+### 個人ゲノム解析環境のゲートウェイ構成変更について
 
-2020.06.30\
-\
-これまで個人ゲノム解析環境ではデータのアップロード、ダウンロード時に\
-一旦検疫ゲートウェイサーバーにデータをコピーし検疫を行うようお願いしておりましたが、\
-検疫ゲートウェイサーバーが混雑し処理速度が低下していたため、\
-今回これを廃止し、直接ユーザーディレクトリにデータ転送できるよう、構成を変更いたしました。\
-\
+2020.06.30
+
+これまで個人ゲノム解析環境ではデータのアップロード、ダウンロード時に
+一旦検疫ゲートウェイサーバーにデータをコピーし検疫を行うようお願いしておりましたが、
+検疫ゲートウェイサーバーが混雑し処理速度が低下していたため、
+今回これを廃止し、直接ユーザーディレクトリにデータ転送できるよう、構成を変更いたしました。
+
+
 これに伴いSSL-VPNクライアントソフトウェアのポート番号の変更(10443 =\>
-443)をお願いいたします。\
-これによりデータ転送が簡便になり速度も向上します。\
-\
-VPN接続ポートの変更手順については、下記URLをご参照ください。\
-\
-\[Mac版\]\
-<https://sc.ddbj.nig.ac.jp/ja/guide/usage-for-analysis-environment-for-individual-genomes/longin-mac>\
-\
-\[Linux版\]\
-<https://sc.ddbj.nig.ac.jp/ja/guide/usage-for-analysis-environment-for-individual-genomes/login-linux>\
-\
-\[Windows版\]\
-<https://sc.ddbj.nig.ac.jp/ja/guide/usage-for-analysis-environment-for-individual-genomes/login-windows>
+443)をお願いいたします。
+これによりデータ転送が簡便になり速度も向上します。
+
+VPN接続ポートの変更手順については、下記URLをご参照ください。
+
+- [Mac版](https://sc.ddbj.nig.ac.jp/ja/guide/usage-for-analysis-environment-for-individual-genomes/longin-mac)
+- [Linux版](https://sc.ddbj.nig.ac.jp/ja/guide/usage-for-analysis-environment-for-individual-genomes/login-linux)
+- [Windows版](https://sc.ddbj.nig.ac.jp/ja/guide/usage-for-analysis-environment-for-individual-genomes/login-windows)
 
  
 
-### 遺伝研スパコンの計算ノード増設について {#遺伝研スパコンの計算ノード増設について style="border-bottom: solid 0.5px #7db4e6; padding: 0.25em 0.5em; border-left: solid 8px #7db4e6;"}
+### 遺伝研スパコンの計算ノード増設について
 
  2020.04.01
 
-::: {#parent-fieldname-text}
 遺伝研スパコンシステムは、2020年4月1よりシステムが増強され、計算ノードの総コア数が11,696コアから15,280コアへ増加しました。
 
 追加されるサーバは、AMDの最新型CPU（AMD EPYC
@@ -182,16 +69,16 @@ Rome）を搭載しており、スパコンシステム一般解析区画のThin
  
 
 入れ替え前後におけるThin計算ノードの詳細情報は以下の通りです。
-:::
 
-<div>
+<table>
+<th>
+<td>計算ノード</td><td>変更前</td><td>変更後</td>
+<th>
+<th>
+<td>プロセッサ名</td><td>変更前</td><td>変更後</td>
+<th>
 
- 
-
-</div>
-
-<div>
-
+</table>
 +-----------------------+-----------------------+-----------------------+
 | **計算ノード**        | #### **変更前**       | #### **変更後**       |
 |                       |                       |                       |
